@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "ippo pay assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "assesment",
+    "serve": "nodemon index.js"
+  },
+  "author": "sathish",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "nodemon": "^2.0.22"
+  }
+}
